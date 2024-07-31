@@ -1,0 +1,102 @@
+
+.navClass{
+	display: block;
+	width: 80%;
+	height: 80px;
+	background-color: #fff;
+	margin-top: 2%;
+	margin-left: 10%;
+}
+.navClass a{
+	text-decoration: none;
+	font-size: 35px;
+	color: #006341;
+	font-weight: bold;
+	margin-top: 10%;
+	margin-left: 29%;
+	justify-content: center;
+}
+.navClass a:hover{
+	color: #C8102E;
+}
+a{
+	color: #C8102E;
+	text-decoration: none;
+}
+a:hover{
+	color: #006341;
+}
+p, h1{
+	color: #C8102E;
+}
+
+.optA, .optB{
+	display: block;
+	background-color: #fff;
+	height: 650px;
+	width: 40%;
+	margin-top: 10%;
+	margin-left: 5%;
+}
+
+
+
+.optA2, .optB2 {
+	display: block;
+	background-color: #006341;
+	height: 100%;
+	width: 130%;
+	margin-top: -115%;
+	margin-left: 95%;
+}
+
+
+.frame1 img, .frame2 img, .frame3 img{
+	width: 100%;
+	height: 220px;
+}
+
+
+
+
+
+
+
+
+
+
+@media only screen and (max-width: 600px){
+	body{
+		overflow: hidden;
+	}
+	.navClass a{
+		font-size: 25px;
+		margin-left: 30%;
+	}
+
+	.optA p, .optB p, .optC p{
+		font-size: 13px;
+	}
+
+	.optA h1, .optB h1, .optC h1{
+		font-size: 20px;
+	}
+
+	.optA2, .optB2, .optC2{
+		margin-top: -370%;
+		margin-left: 100%;
+		padding: 10%;
+	}
+
+	.optA, .optB, .optC{
+		padding: 10%;
+	}
+
+}
+
+
+
+
+
+
+

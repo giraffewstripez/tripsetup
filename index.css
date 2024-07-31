@@ -1,0 +1,190 @@
+body{
+	overflow: hidden;
+	background-image: url("images/indexPanel.jpg");
+	background-size: 150% 150%;
+	background-repeat: no-repeat;
+}
+.navClass{
+	display: block;
+	width: 80%;
+	height: 80px;
+	margin-top: 2%;
+	margin-left: 10%;
+}
+.navClass a{
+	text-decoration: none;
+	font-size: 35px;
+	color: #fff;
+	font-weight: bold;
+	margin-top: 10%;
+	margin-left: 29%;
+	justify-content: center;
+}
+.navClass a:hover{
+	text-decoration: underline;
+}
+
+
+
+
+.selectPanel{
+	display: block;
+	background-color: #DFDFDA;
+	height: 500px;
+	width: 100%;
+	background-repeat: no-repeat;
+	margin-top: 6%;
+	border-radius: 20%;
+}
+
+.optDR{
+	display: block;
+	background-image: url(images/arubaOpt.jpg);
+	background-repeat: no-repeat;
+	background-size: 300px 400px;
+	width: 15%;
+	height: 400px;
+	border-radius: 10%;
+	margin-left: 15%;
+	margin-top: 4%;
+	position: absolute;
+	border: 8px solid #13284D;
+}
+.optDR:hover{
+	border: 8px solid #2E5E65;
+	background-color: #2E5E65;
+	background-image: none;
+}
+.optDRTitle{
+	background-color: transparent;
+	border-color: transparent;
+	font-size: 30px;
+	font-weight: bolder;
+	margin-top: 80%;
+	margin-left: 35%;
+}
+.optDRTitle a{
+	justify-content: center;
+	text-decoration: none;
+	color: #fff;
+}
+.optDRTitle a:hover{
+	color: #13284D;
+}
+
+
+
+.optJam{
+	display: block;
+	background-image: url(images/jamOpt.jpg);
+	background-repeat: no-repeat;
+	background-size: 300px 400px;
+	width: 15%;
+	height: 400px;
+	border-radius: 10%;
+	margin-left: 41%;
+	margin-top: 4%;
+	position: absolute;
+	border: 8px solid #13284D;
+}
+.optJam:hover{
+	border: 8px solid #2E5E65;
+	background-color: #2E5E65;
+	background-image: none;
+}
+.optJamTitle{
+	background-color: transparent;
+	border-color: transparent;
+	font-size: 30px;
+	font-weight: bolder;
+	margin-top: 80%;
+	margin-left: 20%;
+}
+.optJamTitle a{
+	justify-content: center;
+	text-decoration: none;
+	color: #fff;
+}
+.optJamTitle a:hover{
+	color: #13284D;
+}
+
+
+
+
+.optMex{
+	display: block;
+	background-image: url(images/mexOpt.jpg);
+	background-repeat: no-repeat;
+	background-size: 300px 400px;
+	width: 15%;
+	height: 400px;
+	border-radius: 10%;
+	margin-left: 70%;
+	margin-top: 4%;margin-top: 4%;
+	position: absolute;
+	border: 8px solid #13284D;
+}
+.optMex:hover{
+	border: 8px solid #2E5E65;
+	background-color: #2E5E65;
+	background-image: none;
+}
+.optMexTitle{
+	background-color: transparent;
+	border-color: transparent;
+	font-size: 30px;
+	font-weight: bolder;
+	margin-top: 80%;
+	margin-left: 23%;
+}
+.optMexTitle a{
+	justify-content: center;
+	text-decoration: none;
+	color: #fff;
+}
+.optMexTitle a:hover{
+	color: #13284D;
+}
+
+
+
+
+
+
+
+
+@media only screen and (max-width: 600px){
+	.navClass a{
+		font-size: 25px;
+		margin-left: 20%;
+	}
+
+	.selectPanel{
+		height: 800px;
+	}
+
+	.optDR, .optJam, .optMex{
+		width: 60%;
+		height: 200px;
+		margin-left: 15%;
+	}
+	.optJam{
+		 margin-top: 64%;
+	}
+	.optMex{
+		margin-top: 124%;
+	}
+
+	.optDRTitle, .optJamTitle, .optMexTitle{
+		margin-top: 35%;
+	}
+
+}
+
+
+
+
+
+
+
