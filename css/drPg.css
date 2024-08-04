@@ -86,28 +86,24 @@ a:hover{
 
 	.optA2, .optB2, .optC2{
 		position: relative;
-		margin-top: -398%;
+		margin-top: -428%;
 		margin-left: 100%;
 		padding: 10%;
 		height: 114.5%;
 	}
 
-	.optB2{
-		margin-top: -440%;
-	}
+	
 
 
 	.optB, .optC{
 		margin-top: 15%;
 	}
-	.optC2{
-		margin-top: -422%;
-	}
+	
 
 	.optA, .optB, .optC{
 		position: relative;
 		padding-left: 2%;
-		padding: 10%;
+		padding: 5%;
 		padding-bottom: 20%;
 	}
 
