@@ -68,6 +68,11 @@ p, h1{
 
 
 @media only screen and (max-width: 600px){
+	*{
+		max-width: screen;
+		margin-bottom: -15%;
+	}
+	
 	.navClass a{
 		font-size: 25px;
 		margin-left: 30%;
@@ -82,21 +87,17 @@ p, h1{
 	}
 
 	.optA2, .optB2, .optC2{
-		margin-top: -370%;
+		margin-top: -400%;
 		margin-left: 100%;
 		padding: 10%;
 	}
 
-	.optB2{
-		margin-top: -440%;
-	}
+	
 
 	.optC{
 		margin-top: 35%;
 	}
-	.optC2{
-		margin-top: -430%;
-	}
+	
 
 	.optA, .optB, .optC{
 		padding: 10%;
