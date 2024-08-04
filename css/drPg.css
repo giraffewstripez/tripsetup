@@ -64,11 +64,18 @@ a:hover{
 @media only screen and (max-width: 600px){
 	.navClass a{
 		font-size: 25px;
-		margin-left: 20%;
+		margin-left: 24%;
 	}
 
 	.optA p, .optB p, .optC p{
 		font-size: 13px;
+	}
+
+	.optB{
+		margin-top: 20%;
+	}
+	.optC{
+		margin-top: 20%;
 	}
 
 	.optA h1, .optB h1, .optC h1{
@@ -76,16 +83,20 @@ a:hover{
 	}
 
 	.optA2, .optB2, .optC2{
-		margin-top: -370%;
+		margin-top: -390%;
 		margin-left: 100%;
 		padding: 10%;
 	}
 	.optB2{
-		margin-top: -395%
+		margin-top: -427%
+	}
+	.optC2{
+		margin-top: -410%;
 	}
 
 	.optA, .optB, .optC{
-		padding: 10%;
+		padding: 5%;
+		margin-left: 0;
 	}
 
 }
