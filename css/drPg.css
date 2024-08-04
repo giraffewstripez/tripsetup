@@ -84,14 +84,17 @@ a:hover{
 		font-size: 20px;
 	}
 
-	.optA2, .optB2{
+	.optA2{
 		margin-top: -430%;
 		margin-left: 100%;
 		padding: 10%;
 		height: 114.5%;
 	}	
 	.optB2{
-		margin-top: -480%;
+		margin-top: -450%;
+		margin-left: 100%;
+		padding: 10%;
+		height: 114.5%;
 	}
 	.optC2{
 		margin-top: -465%;
