@@ -80,23 +80,27 @@ p, h1{
 
 	.optA p, .optB p, .optC p{
 		font-size: 13px;
-		padding: 1%;
+		padding: 3%;
 	}
 
 	.optA h1, .optB h1, .optC h1{
 		font-size: 20px;
 	}
 
-	.optA2, .optB2, .optC2{
-		margin-top: -385%;
+	.optA2{
+		margin-top: -370%;
 		margin-left: 100%;
 		padding: 10%;
 	}
 	.optB2{
 		margin-top: -440%;
+		margin-left: 100%;
+		padding: 10%;
 	}
 	.optC2{
-		margin-top: -400%;
+		margin-top: -415%;
+		margin-left: 100%;
+		padding: 10%;
 	}
 
 	.optC{
@@ -105,12 +109,14 @@ p, h1{
 	
 
 	.optA, .optB, .optC{
+		padding-left: 2%;
 		padding: 10%;
+		padding-bottom: 20%;
 	}
 
 	.frame1 img, .frame2 img, .frame3 img{
-		margin-top: 5%;
-		padding: 2%;
+		width: 100%;
+		height: 200px;
 	}
 
 }
