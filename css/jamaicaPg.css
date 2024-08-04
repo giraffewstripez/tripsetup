@@ -38,21 +38,32 @@ p, h1{
 	margin-left: 5%;
 }
 
-.optA2, .optB2, .optC2{
+.optA2{
 	display: block;
 	background-color: #009B3A;
 	height: 101%;
 	width: 130%;
-	margin-top: -98.5%;
+	margin-top: -130%;
 	margin-left: 95%;
+
 }
 
 
 .optB2{	
-	margin-top: -130%;
+	display: block;
+	background-color: #009B3A;
+	height: 101%;
+	width: 130%;
+	margin-top: -160%;
+	margin-left: 95%;
 }
 .optC2{
-	margin-top: -120%;
+	display: block;
+	background-color: #009B3A;
+	height: 101%;
+	width: 130%;
+	margin-top: -160%;
+	margin-left: 95%;
 }
 
 
