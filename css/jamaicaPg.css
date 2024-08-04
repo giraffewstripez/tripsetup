@@ -43,26 +43,28 @@ p, h1{
 	background-color: #009B3A;
 	height: 101%;
 	width: 130%;
-	margin-top: -180%;
+	margin-top: -240%;
 	margin-left: 95%;
-
+	position: relative;
 }
 
 
 .optB2{	
+	position: relative;
 	display: block;
 	background-color: #009B3A;
 	height: 101%;
 	width: 130%;
-	margin-top: -160%;
+	margin-top: -220%;
 	margin-left: 95%;
 }
 .optC2{
+	position: relative;
 	display: block;
 	background-color: #009B3A;
 	height: 101%;
 	width: 130%;
-	margin-top: -160%;
+	margin-top: -240%;
 	margin-left: 95%;
 }
 
