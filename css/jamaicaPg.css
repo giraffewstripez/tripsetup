@@ -115,7 +115,8 @@ p, h1{
 	}
 
 	.frame1 img, .frame2 img, .frame3 img{
-		padding-top: 5%;
+		margin-top: 5%;
+		padding: 2%;
 	}
 
 }
