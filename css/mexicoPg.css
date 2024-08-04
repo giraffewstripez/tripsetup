@@ -80,11 +80,17 @@ p, h1{
 		font-size: 20px;
 	}
 
-	.optA2, .optB2{
+	.optA2{
 		margin-top: -400%;
 		margin-left: 100%;
 		padding: 10%;
 	}
+	.optB2{
+		margin-top: -480%;
+		margin-left: 100%;
+		padding: 10%;
+	}
+	
 
 	.optA, .optB{
 		padding-left: 2%;
@@ -93,8 +99,8 @@ p, h1{
 	}
 
 	.frame1 img, .frame2 img, .frame3 img{
-		margin-top: 5%;
-		padding: 2%;
+		width: 100%;
+		height: 200px;
 	}
 
 }
