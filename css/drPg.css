@@ -60,7 +60,17 @@ a:hover{
 
 
 
-@media only screen and (max-width: 600px){
+@media only screen and (max-width: 500px){
+
+	*{
+		max-width: 430px;
+		max-height: 932px;
+	}
+	body{
+		position: absolute;
+		overflow: auto;
+	}
+
 	.navClass a{
 		font-size: 25px;
 		margin-left: 30%;
@@ -75,6 +85,7 @@ a:hover{
 	}
 
 	.optA2, .optB2, .optC2{
+		position: relative;
 		margin-top: -398%;
 		margin-left: 100%;
 		padding: 10%;
@@ -94,6 +105,7 @@ a:hover{
 	}
 
 	.optA, .optB, .optC{
+		position: relative;
 		padding-left: 2%;
 		padding: 10%;
 		padding-bottom: 20%;
