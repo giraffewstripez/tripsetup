@@ -188,10 +188,12 @@ body{
 
 	.optDRTitle, .optJamTitle, .optMexTitle{
 		margin-top: 35%;
+		align-content: center;
+		justify-content: space-between;
+		margin-left: 25%;
 	}
-	
-	.optDRTitle a, .optJamTitle a, .optMexTitle a{
-		margin-right: 10px;
+	.optDRTitle{
+		margin-left: 35%;
 	}
 
 }
