@@ -187,13 +187,13 @@ body{
 	}
 
 	.optDRTitle, .optJamTitle, .optMexTitle{
-		margin-top: 35%;
+		margin-top: 25%;
 		align-content: center;
 		justify-content: space-between;
 		margin-left: 15%;
 	}
 	.optDRTitle{
-		margin-left: 25%;
+		margin-left: 1%;
 	}
 
 }
