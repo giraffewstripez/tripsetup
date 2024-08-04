@@ -192,8 +192,11 @@ body{
 		justify-content: space-between;
 		margin-left: 15%;
 	}
+	.optMexTitle{
+		margin-left: 22%;
+	}
 	.optDRTitle{
-		margin-left: 10%;
+		margin-left: 20%;
 	}
 
 }
