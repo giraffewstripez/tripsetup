@@ -171,7 +171,7 @@ body{
 	.selectPanel{
 		margin-top: 15%;
 		height: 800px;
-		padding: 10px;
+		padding: 5px;
 	}
 
 	.optDR, .optJam, .optMex{
@@ -187,13 +187,13 @@ body{
 	}
 
 	.optDRTitle, .optJamTitle, .optMexTitle{
-		margin-top: 25%;
+		margin-top: 35%;
 		align-content: center;
 		justify-content: space-between;
 		margin-left: 15%;
 	}
 	.optDRTitle{
-		margin-left: 1%;
+		margin-left: 10%;
 	}
 
 }
