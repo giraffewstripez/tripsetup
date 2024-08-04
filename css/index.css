@@ -191,7 +191,7 @@ body{
 	}
 	
 	.optDRTitle a, .optJamTitle a, .optMexTitle a{
-		margin-left: 0%;
+		margin-left: 10px;
 	}
 
 }
