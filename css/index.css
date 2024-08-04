@@ -160,18 +160,18 @@ body{
 		margin-bottom: -15%;
 	}
 	body{
-		margin-bottom: -25%;
-		padding-bottom: 200px;
+		overflow: auto;
 	}
 
 	.navClass a{
 		font-size: 25px;
-		margin-left: 20%;
+		margin-left: 24%;
 	}
 
 	.selectPanel{
+		margin-top: 15%;
 		height: 800px;
-		padding-bottom: 200px;
+		padding: 10px;
 	}
 
 	.optDR, .optJam, .optMex{
@@ -189,6 +189,7 @@ body{
 	.optDRTitle, .optJamTitle, .optMexTitle{
 		margin-top: 35%;
 	}
+
 
 }
 
